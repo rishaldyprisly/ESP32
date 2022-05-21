@@ -1,5 +1,4 @@
-{
-  "meals": [
+[
     {
       "id": "00011",
       "name": "spaghetti",
@@ -13,23 +12,6 @@
     {
       "id": "00013",
       "name": "siomay",
-      "price": "15000"
-    }
-  ],
-  "drinks": [
-    {
-      "id": "00021",
-      "name": "cocacola",
-      "price": "1000"
-    },
-     {
-      "id": "00022",
-      "name": "sprite",
-      "price": "8000"
-    },
-    {
-      "id": "00023",
-      "name": "mineral",
       "price": "15000"
     }
   ]

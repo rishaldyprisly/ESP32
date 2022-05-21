@@ -15,7 +15,7 @@
       "name": "siomay",
       "price": "15000"
     }
-  ]
+  ],
   "drinks": [
     {
       "id": "00021",
@@ -33,7 +33,5 @@
       "price": "15000"
     }
   ]
-  "desert": {
-    "name": "cake"
-  }
+ 
 }
